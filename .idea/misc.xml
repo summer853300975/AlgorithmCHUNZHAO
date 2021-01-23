@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/code/idea/plugins/eclipsp-codestyle.xml" />
+        <option name="selectedJavaProfile" value="P3C-CodeStyle" />
+      </ProjectSpecificProfile>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://www.sankuai.com/schema/athena-client" location="" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SaveActionSettings">
+    <option name="actions">
+      <set>
+        <option value="activate" />
+        <option value="organizeImports" />
+        <option value="reformat" />
+        <option value="localCanBeFinal" />
+        <option value="unqualifiedFieldAccess" />
+      </set>
+    </option>
+    <option name="configurationPath" value="" />
+  </component>
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
+</project>
